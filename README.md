@@ -1,11 +1,11 @@
 # Academic-stress-detection
 
-#Project Overview
+# Project Overview
 This project presents a deep learning–based approach for academic stress level classification using self-reflective student texts. The system applies Long Short-Term Memory (LSTM) and Bidirectional LSTM (Bi-LSTM) architectures to identify stress levels as Low, Moderate, or High based on linguistic and contextual cues.
 
 The project emphasizes ethical AI practices, originality through self-collected data, and explainable sequential modeling, making it suitable for educational and mental health applications.
 
-#Objectives
+# Objectives
 - To design and implement an end-to-end deep learning pipeline for stress classification
 - To analyze and compare the performance of LSTM vs Bi-LSTM architectures
 - To evaluate model effectiveness using standard classification metrics
